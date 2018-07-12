@@ -1,0 +1,5 @@
+[Cache]
+  local = ~/Library/Caches/Rome/
+
+[RepositoryMap]
+  RxSwift = RxBlocking, RxCocoa, RxTest, RxSwift
